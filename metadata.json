@@ -1,0 +1,6 @@
+{
+  "name": "Uçuş Vaxtı Kalkulyatoru",
+  "description": "Uçuş saatlarını və müddətini hesablamaq üçün sadə və dəqiq alət.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
